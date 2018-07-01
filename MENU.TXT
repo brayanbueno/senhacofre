@@ -1,0 +1,13 @@
+  
+
+
+
+      
+        **************************************
+        *                                    *
+        * - DIGITE (1) PARA AJUDA            *
+        * - DIGITE (2) PARA INICIAR O JOGO   *
+        * - DIGITE (3) PARA VER PLACAR       *
+        * - DIGITE (4) PARA SAIR DO JOGO     * 
+        *                                    *   
+        **************************************     

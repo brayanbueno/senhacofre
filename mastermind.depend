@@ -1,0 +1,426 @@
+# depslib dependency file v1.0
+1530238607 source:c:\trabalho-2\mastermind\src\entrada.cpp
+
+1530239206 source:c:\trabalho-2\mastermind\src\menu.cpp
+
+1530239458 source:c:\trabalho-2\mastermind\src\ajuda.cpp
+
+1530240064 source:c:\trabalho-2\mastermind\src\saida.cpp
+
+1530241647 source:c:\trabalho-2\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530238963 c:\trabalho-2\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239206 c:\trabalho-2\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530241390 c:\trabalho-2\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530240330 c:\trabalho-2\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530242619 c:\trabalho-2\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530240798 source:c:\trabalho-2\mastermind\src\jogar.cpp
+
+1530241648 source:f:\trabalho-2\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530285208 f:\trabalho-2\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239208 f:\trabalho-2\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530241392 f:\trabalho-2\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530285010 f:\trabalho-2\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530286030 f:\trabalho-2\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530239460 source:f:\trabalho-2\mastermind\src\ajuda.cpp
+
+1530238608 source:f:\trabalho-2\mastermind\src\entrada.cpp
+
+1530240800 source:f:\trabalho-2\mastermind\src\jogar.cpp
+
+1530239208 source:f:\trabalho-2\mastermind\src\menu.cpp
+
+1530240066 source:f:\trabalho-2\mastermind\src\saida.cpp
+
+1530310947 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	"placar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530285208 c:\users\computador\desktop\c++\trabalho-2\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239208 c:\users\computador\desktop\c++\trabalho-2\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530310484 c:\users\computador\desktop\c++\trabalho-2\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530301687 c:\users\computador\desktop\c++\trabalho-2\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530308244 c:\users\computador\desktop\c++\trabalho-2\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530239460 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\src\ajuda.cpp
+
+1530238608 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\src\entrada.cpp
+
+1530240800 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\src\jogar.cpp
+
+1530239208 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\src\menu.cpp
+
+1530240066 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\src\saida.cpp
+
+1530307978 source:c:\users\computador\desktop\c++\trabalho-2\mastermind\src\placar.cpp
+
+1530307978 c:\users\computador\desktop\c++\trabalho-2\mastermind\include\placar.h
+	<iostream>
+	<string>
+	<fstream>
+
+1530315834 source:e:\clp\trabalho-2\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	"placar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530285208 e:\clp\trabalho-2\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239208 e:\clp\trabalho-2\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530310486 e:\clp\trabalho-2\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530301688 e:\clp\trabalho-2\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530308246 e:\clp\trabalho-2\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530307980 e:\clp\trabalho-2\mastermind\include\placar.h
+	<iostream>
+	<string>
+	<fstream>
+
+1530239460 source:e:\clp\trabalho-2\mastermind\src\ajuda.cpp
+
+1530238608 source:e:\clp\trabalho-2\mastermind\src\entrada.cpp
+
+1530240800 source:e:\clp\trabalho-2\mastermind\src\jogar.cpp
+
+1530239208 source:e:\clp\trabalho-2\mastermind\src\menu.cpp
+
+1530307980 source:e:\clp\trabalho-2\mastermind\src\placar.cpp
+
+1530240066 source:e:\clp\trabalho-2\mastermind\src\saida.cpp
+
+1530315834 source:e:\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	"placar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530285208 e:\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239208 e:\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530310486 e:\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530301688 e:\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530316860 e:\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530307980 e:\mastermind\include\placar.h
+	<iostream>
+	<string>
+	<fstream>
+
+1530239460 source:e:\mastermind\src\ajuda.cpp
+
+1530238608 source:e:\mastermind\src\entrada.cpp
+
+1530240800 source:e:\mastermind\src\jogar.cpp
+
+1530239208 source:e:\mastermind\src\menu.cpp
+
+1530307980 source:e:\mastermind\src\placar.cpp
+
+1530240066 source:e:\mastermind\src\saida.cpp
+
+1530315834 source:c:\users\fulltec\desktop\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	"placar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530475574 c:\users\fulltec\desktop\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239208 c:\users\fulltec\desktop\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530310486 c:\users\fulltec\desktop\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530301688 c:\users\fulltec\desktop\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530316860 c:\users\fulltec\desktop\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530307980 c:\users\fulltec\desktop\mastermind\include\placar.h
+	<iostream>
+	<string>
+	<fstream>
+
+1530239460 source:c:\users\fulltec\desktop\mastermind\src\ajuda.cpp
+
+1530238608 source:c:\users\fulltec\desktop\mastermind\src\entrada.cpp
+
+1530240800 source:c:\users\fulltec\desktop\mastermind\src\jogar.cpp
+
+1530239208 source:c:\users\fulltec\desktop\mastermind\src\menu.cpp
+
+1530307980 source:c:\users\fulltec\desktop\mastermind\src\placar.cpp
+
+1530240066 source:c:\users\fulltec\desktop\mastermind\src\saida.cpp
+
+1530482407 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\main.cpp
+	"entrada.h"
+	"menu.h"
+	"ajuda.h"
+	"saida.h"
+	"jogar.h"
+	"placar.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
+1530475574 c:\users\fulltec\desktop\jogo finalizado\mastermind\include\entrada.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530239208 c:\users\fulltec\desktop\jogo finalizado\mastermind\include\menu.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530310486 c:\users\fulltec\desktop\jogo finalizado\mastermind\include\ajuda.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530301688 c:\users\fulltec\desktop\jogo finalizado\mastermind\include\saida.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1530316860 c:\users\fulltec\desktop\jogo finalizado\mastermind\include\jogar.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+
+1530307980 c:\users\fulltec\desktop\jogo finalizado\mastermind\include\placar.h
+	<iostream>
+	<string>
+	<fstream>
+
+1530239460 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\src\ajuda.cpp
+
+1530238608 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\src\entrada.cpp
+
+1530240800 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\src\jogar.cpp
+
+1530239208 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\src\menu.cpp
+
+1530307980 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\src\placar.cpp
+
+1530240066 source:c:\users\fulltec\desktop\jogo finalizado\mastermind\src\saida.cpp
+
